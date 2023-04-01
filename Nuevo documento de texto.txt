@@ -1,0 +1,2 @@
+https://localhost:7070/Estudiante/obtener
+https://localhost:7070/Estudiante/agregar

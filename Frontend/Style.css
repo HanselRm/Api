@@ -1,0 +1,64 @@
+#content{
+   width: 100%; 
+
+}
+form{
+    display: inline-block;
+
+    width: 40%;
+    margin: 40px 0;
+}
+.input{
+    display: block;
+    margin: 0 0 20px 0;
+    padding: 10px 25px;
+    width: 90%;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    width: 90%;
+}
+
+.enviar{
+    width: 30%;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background:tomato;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+.Content-table{
+    position: relative;
+    margin: -32% 48%;
+    width: 50%;
+   
+}
+
+table{ 
+    border: 1px solid black;   
+    width: 100%;
+}
+
+thead{
+    background: #555555;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 8px;
+}
+
